@@ -1,3 +1,6 @@
+  """
+  This script is A Lambda function to extract the data by passing dynamic query
+  """
 import json
 import pymysql
 
