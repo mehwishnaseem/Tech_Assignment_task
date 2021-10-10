@@ -1,5 +1,5 @@
 """
-This scripts parses twitter tweets from JSON format and store data in AWS RDS(MYSQL).
+This script parses tweets from JSON format and store data in AWS RDS(MYSQL).
 9 tables are created to store data. Nested fields such as user, entities etc converted to seperate table
 containing tweetid/userid to preserve relation between nested item)
 """
